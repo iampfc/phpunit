@@ -71,7 +71,8 @@ class MoneyTest extends PHPUnit_Framework_TestCase
 ##三、实战
 * 快速体验
 
-经过第二部测试项目的搭建，我们可以运行底下的命令快速查看测试结果
+> 经过第二部测试项目的搭建，我们可以运行底下的命令快速查看测试结果
+
 1、第一种方式
 ```
 phpunit --bootstrap src/Money.php tests/MoneyTest.php
